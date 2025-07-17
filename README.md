@@ -18,6 +18,7 @@ Python solutions for string manipulation problems as part of Day 6 in the DSA Pr
 String reversal, palindrome check, vowel/consonant count, space removal, anagram check, ASCII conversion, unique char check, vowel replacement, and most frequent char.
 
 # 🧑‍💻 Author
-SUBHRANIL Dutta
-5th Sem CSE | DSA + GenAI Learner
+*Subhranil Dutta*  
+5th Sem CSE | DSA + GenAI Learner  
+🔗 [GitHub Profile](https://github.com/subhranil-gen-ai)
 
