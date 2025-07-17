@@ -14,4 +14,10 @@ Python solutions for string manipulation problems as part of Day 6 in the DSA Pr
 - Replace all vowels with *
 - Find the most frequent character in a string
 
-Language: Python 🐍
+# 📚 Concepts Practiced
+String reversal, palindrome check, vowel/consonant count, space removal, anagram check, ASCII conversion, unique char check, vowel replacement, and most frequent char.
+
+# 🧑‍💻 Author
+SUBHRANIL Dutta
+5th Sem CSE | DSA + GenAI Learner
+
